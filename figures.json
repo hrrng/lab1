@@ -1,0 +1,58 @@
+{
+  "figures": [
+    {
+      "type": "circle",
+      "center_x": 30,
+      "center_y": 30,
+      "line_color": "blue",
+      "bg_color": "green",
+      "depth": 3
+    },
+    {
+      "type": "triangle",
+      "x1": 80,
+      "y1": 80,
+      "x2": 170,
+      "y2": 170,
+      "x3": 230,
+      "y3": 230,
+      "line_color": "blue",
+      "bg_color": "red",
+      "depth": 1
+    },
+    {
+      "type": "square",
+      "x": 500,
+      "y": 500,
+      "line_color": "red",
+      "bg_color": "yellow",
+      "depth": 7
+    },
+    {
+      "type": "polygon",
+      "points": [[13,17],[56,81],[33,72],[88,20],[101,55],[77,3]],
+      "line_color": "green",
+      "bg_color": "black",
+      "depth": 0
+    },
+    {
+      "type": "line",
+      "x1": 75,
+      "y1": 75,
+      "x2": 213,
+      "y2": 213,
+      "line_color": "black",
+      "depth": 5
+    },
+    {
+      "type": "ellipse",
+      "center_x": 376,
+      "center_y": 85,
+      "width": 117,
+      "height": 72,
+      "line_color": "blue",
+      "bg_color": "green",
+      "depth": 0
+    }
+  ]
+}
